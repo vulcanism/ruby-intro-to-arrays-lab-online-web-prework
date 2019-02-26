@@ -6,3 +6,5 @@ def array_with_two_elements
   ["mob", "ritsu"]
 end
 
+def my_first_element(array)
+end
