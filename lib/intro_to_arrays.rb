@@ -6,7 +6,7 @@ def array_with_two_elements
   ["mob", "ritsu"]
 end
 
-def my_first_element(array)
+def first_element(array)
   array[0]
 end
 
